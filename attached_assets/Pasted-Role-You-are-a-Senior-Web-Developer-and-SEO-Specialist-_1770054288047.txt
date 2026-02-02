@@ -1,0 +1,33 @@
+Role: You are a Senior Web Developer and SEO Specialist with expertise in creating high-converting sites for the construction and heavy machinery industry.
+
+Task: I need you to do a complete design overhaul of my existing website: https://www.nurneyplantandcivil.ie/.
+
+Core Requirements:
+
+Analyze the Source: specific attention to the text content and the image assets on the current URL. I want to keep all existing images (showing off the fleet and work examples) but present them in a modern masonry grid or carousel.
+
+Tech Stack: Use HTML5 and Tailwind CSS. This needs to be lightweight, fast, and mobile-responsive.
+
+Structure: Create a Single Page Application (One-Page Site) with smooth scrolling navigation to these sections:
+
+Hero Section: High impact, modern headline, and a clear "Get a Quote" Call to Action (CTA) button.
+
+Services: Bulleted list or cards detailing our capabilities (Civil Engineering, Plant Hire, etc.).
+
+Gallery/Fleet: Display the images from the original site professionally.
+
+About: Brief company history/trust signals.
+
+Careers (NEW): A distinct section near the bottom stating "We Are Hiring." Include text inviting skilled workers to submit a resume and a mailto: link for them to send it to.
+
+Footer: Contact details and a social icon linking to our Facebook: https://www.facebook.com/p/Nurney-Plant-and-Civil-61551672382009/
+
+Design & UX Goals:
+
+Aesthetic: Modern, industrial, and clean. Use a color palette that reflects construction (e.g., high-vis yellows/oranges, slate greys, whites, and blacks).
+
+Conversion: Ensure "Call Now" and "Email Us" buttons are sticky or easily accessible at all times, especially on mobile.
+
+SEO: Implement semantic HTML tags (<header>, <section>, <footer>, <h1>, <h2>). Add meta tags optimized for keywords like "Plant Hire Ireland," "Civil Engineering," "Groundworks," and "Nurney Plant and Civil."
+
+Output: Please generate the full code for the index.html and any necessary CSS/assets. If you cannot directly scrape the images, please use placeholder images (via Unsplash) in the code but provide comments where I should insert the original image filenames.
